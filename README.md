@@ -15,11 +15,10 @@ Estou pronto para aprender muito mais sobre o universo da programação em um am
 <a href="https://www.linkedin.com/in/fabio-r-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 
-
   <a href="https://github.com/FabioRMartins">
-  <img height="170em" weight='100em' src="https://github-readme-stats.vercel.app/api?username=FabioRMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRMartins&layout=compact&langs_count=7&theme=dracula"/>
-
+   <img height="170em" weight='100em' src="https://github-readme-stats.vercel.app/api?username=FabioRMartins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="170em" weight='100em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioRMartins&layout=compact&langs_count=6&theme=tokyonight"/>
+    
 
  <div style="display: inline_block" align= 'center'><br>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo" width="50px" height="50px" /> 
