@@ -5,7 +5,7 @@
 
 Ao longo do último ano estudei muito e realizei dezenas de projetos de frontend e backend.
 <br>
-Agora, estou em busca da minha primeira experiência como júnior na área de tecnologia.
+Agora, estou em busca da minha primeira experiência como desenvolvedor júnior.
 <br>
 Estou pronto para aprender muito mais sobre o universo da programação em um ambiente profissional.
 
