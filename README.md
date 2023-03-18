@@ -11,6 +11,7 @@ Estou pronto para aprender muito mais sobre o universo da programação em um am
 
 * ✉️  Você pode entrar em contato comigo em meu email: [fabiormartins.dev@gmail.com](mailto:fabiormartins.dev@gmail.com)
 
+* https://fabiomartins-portfolio.netlify.app/
 
 <a href="https://www.linkedin.com/in/fabio-r-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
